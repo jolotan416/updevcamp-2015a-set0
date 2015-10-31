@@ -1,0 +1,43 @@
+a{
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.row{
+  text-align: center;
+  padding: 10px;
+}
+
+.fixed-nav-bar{
+  position:fixed;
+  z-index:9999;
+}
+
+#navbar{
+  background: #bdc3c7;
+  position:fixed;
+  width:1400px;
+  padding-left: 30vh;
+  z-index:1;
+}
+
+#logo{
+  position:absolute;
+  left:93vh;
+}
+
+#first_page{
+  background:#3498db;
+  z-index:-1;
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
+
+#second_page{
+  background: #ecf0f1;
+  z-index:-1;
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
