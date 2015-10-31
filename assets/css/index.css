@@ -5,6 +5,11 @@ a{
   font-family: 'Raleway', sans-serif;
 }
 
+h2{
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+
 .row{
   text-align: center;
   padding: 10px;
@@ -28,7 +33,7 @@ a{
   left:93vh;
 }
 
-#first_page{
+#first_page, #third_page{
   background:#3498db;
   z-index:-1;
   padding-top: 20vh;
